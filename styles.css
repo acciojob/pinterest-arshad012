@@ -14,6 +14,7 @@
 img {
 	width: 350px;
 	height: 150px;
+	object-fit: cover;
 }
 button {
 	padding: 5px 10px;
