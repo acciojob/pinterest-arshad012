@@ -1,1 +1,38 @@
 /*  your css code here. If applicable */
+.hero {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+	border: 1px solid black;
+	padding: 15px;
+}
+
+.hero div {
+	text-align: center;
+}
+img {
+	width: 350px;
+	height: 150px;
+}
+button {
+	padding: 5px 10px;
+	background-color: red;
+	color: white;
+	border-radius: 6px;
+	border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
